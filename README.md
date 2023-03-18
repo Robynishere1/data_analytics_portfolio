@@ -1,4 +1,4 @@
-# data_analytics_portfolio
+# Data Analytics Portfolio - IP
 
 #### Welcome to Robyn's data analytics portfolio!
 ##### Contact Info:
