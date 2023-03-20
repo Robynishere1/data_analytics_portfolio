@@ -20,6 +20,10 @@ In addition to the examples you see below, I'm familiar with visualizing data in
 
 #### Churn
 
+1. Data setup (for this project, the data setup was done using Presto)
+  a) Dashboard Data
+  b) Churn Analyses Data
+
 ### Analysing Large Datasets to Produce Actionable Insights
 
 #### Query Examples
